@@ -1,0 +1,8 @@
+require("rishikesh.core.options")
+require("rishikesh.plugins.colorscheme")
+require("rishikesh.core.keymaps")
+require("rishikesh.plugins.comment")
+require("rishikesh.plugins.nvim-tree")
+require("rishikesh.plugins.lualine")
+require("rishikesh.plugins.telescope")
+require("rishikesh.plugins.nvim-cmp")
